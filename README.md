@@ -1,2 +1,5 @@
-# Project-2
-World Peace through Foreign Aid
+# Project 2: World Peace through Foreign Aid
+
+
+
+
