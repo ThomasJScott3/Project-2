@@ -2,7 +2,7 @@
 
 Collaborators: Rosalyn Brown, Dean Kim, Thomas Scott & Samuel Simmons
 
-![Presentation Link](https://github.com/ThomasJScott3/Project-2/blob/main/World%20Peace%20Through%20Foreign%20Aid.pdf)
+[Presentation Link](https://github.com/ThomasJScott3/Project-2/blob/main/World%20Peace%20Through%20Foreign%20Aid.pdf)
 
 Goal: The goal of this project was to target which countries in South America should be receiving foregin aid based on their economic performance and which should not. We used machine learning to evaluate the various economic trends in those countries. If the trends were positive, they should not receive foreign aid. If the opposite was true, then the countries should receive foreign aid. In addition, we created wordclouds to qaulify and clarify our findings.
 
