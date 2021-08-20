@@ -6,7 +6,7 @@ Collaborators: Rosalyn Brown, Dean Kim, Thomas Scott & Samuel Simmons
 
 Goal: The goal of this project was to target which countries in South America should be receiving foregin aid based on their economic performance and which should not. We used a machine learning strategy called linear regression to evaluate various economic trends in those countries. If the trends were positive, they should not receive foreign aid. If the opposite was true, then the countries should receive foreign aid. In addition, we created wordclouds to qaulify and clarify our findings.
 
-Libararies Used: Pandas, Matplotlib, sklearn, newsapi & nltk
+Libararies Used: Pandas, Matplotlib, Sklearn, Newsapi & Nltk
 ## Analysis:
 
 In this section, we will evaluate which nations should or should not receive foreign aid.
