@@ -61,7 +61,7 @@ Wordcloud:
 
 Explanation:
 <br>
-This one is a bit more tricky. Although the trend for CPI shows a clear inflationary trend, this is counterveiled by flat GDP growth. Although this might otherwise indicate that foreign aid would be appropriate, we instead recommend ![dollarization](https://www.cbaeconomia.com/dollarization.pdf), which would allign the value of the Argentine Peso with that of the dollar. Given the rising exhcange rate between the two currencies as shown in the third visual, this step would likely be much more appropriate than simply sending funds directly to a ![profligate government in Buenos Ares](https://en.wikipedia.org/wiki/Argentine_debt_restructuring). In addition, the presence of more data points in the third linear regression back up the validity of these findings.
+This one is a bit more tricky. Although the trend for CPI shows a clear inflationary trend, this is counterveiled by flat GDP growth. Although this might otherwise indicate that foreign aid would be appropriate, we instead recommend [dollarization](https://www.cbaeconomia.com/dollarization.pdf), which would allign the value of the Argentine Peso with that of the dollar. Given the rising exhcange rate between the two currencies as shown in the third visual, this step would likely be much more appropriate than simply sending funds directly to a [profligate government in Buenos Ares](https://en.wikipedia.org/wiki/Argentine_debt_restructuring). In addition, the presence of more data points in the third linear regression back up the validity of these findings.
 <br>
 ### Colombia
 
@@ -113,7 +113,7 @@ Wordcloud:
 Explanation:
 
 <br>
-This set of visuals show an inflationary trend that ![has only gotten worse during the coronavirus crisis](https://www.bloomberg.com/news/articles/2021-08-06/chile-inflation-surges-past-target-range-ceiling-to-5-year-high) . In addition, the GDP growth trend has slowed in recent year and the regression shows a negative trend. Both the exchange rate and the CPI show a clear slide of the Chilean Peso against the dollar. Just like previous examples, there are a lot more CPI data points to back up this point. Finally, the word cloud shows possible ![disruption in commodities exports](https://www.reuters.com/article/us-metals-copper-ahome-idUSKBN2FH1LZ) .
+This set of visuals show an inflationary trend that [has only gotten worse during the coronavirus crisis](https://www.bloomberg.com/news/articles/2021-08-06/chile-inflation-surges-past-target-range-ceiling-to-5-year-high). In addition, the GDP growth trend has slowed in recent year and the regression shows a negative trend. Both the exchange rate and the CPI show a clear slide of the Chilean Peso against the dollar. Just like previous examples, there are a lot more CPI data points to back up this point. Finally, the word cloud shows possible [disruption in commodities exports](https://www.reuters.com/article/us-metals-copper-ahome-idUSKBN2FH1LZ).
 <br>
 
 ### Brazil
