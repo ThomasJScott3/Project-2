@@ -142,6 +142,8 @@ Explanation:
 <br>
 The data points here show clear inflationary trend here. Like prior CPI plots, there are a large quantity of data points to back this up. The exchange rate also shows an slide, albeit a cyclical one, against the dollar. Finally, there is a discernable downward trend in GDP growth that is of concern. Finally, the word cloud did not produce results that are of relevance here. In future, a more refined algorithm specifically for Brazil might be warrented.  
 <br>
+
 ### Conclusion
+
 <br>
 In conclusion, there are limits to what can be concluded by our findings. Changes in exchange rate and CPI are cumulative and can be unnoticable if paired with robust economic growth. Finally, the decline in GDP growth might not be as dire as the data shows at second glance. A mere decline in GDP growth _per se_ does not mean that a nation's economy has stopped growing, just that it is not growing as fast. This brings me to my final point, the data that we obtained from the IMF and World Bank is limited and should only be used in the context of an academic exercise. In this case, our fictitious congressional hearing was just that. 
