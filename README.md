@@ -113,7 +113,7 @@ Wordcloud:
 Explanation:
 
 <br>
-This set of visuals show an inflationary trend that [has only gotten worse during the coronavirus crisis](https://www.bloomberg.com/news/articles/2021-08-06/chile-inflation-surges-past-target-range-ceiling-to-5-year-high). In addition, the GDP growth trend has slowed in recent year and the regression shows a negative trend. Both the exchange rate and the CPI show a clear slide of the Chilean Peso against the dollar. Just like previous examples, there are a lot more CPI data points to back up this point. Finally, the word cloud shows possible [disruption in commodities exports](https://www.reuters.com/article/us-metals-copper-ahome-idUSKBN2FH1LZ).
+This set of visuals show an inflationary trend that has only gotten [worse during the coronavirus crisis](https://www.bloomberg.com/news/articles/2021-08-06/chile-inflation-surges-past-target-range-ceiling-to-5-year-high). In addition, the GDP growth trend has slowed in recent year and the regression shows a negative trend. Both the exchange rate and the CPI show a clear slide of the Chilean Peso against the dollar. Just like previous examples, there are a lot more CPI data points to back up this point. Finally, the word cloud shows possible [disruption in commodities exports](https://www.reuters.com/article/us-metals-copper-ahome-idUSKBN2FH1LZ).
 <br>
 
 ### Brazil
