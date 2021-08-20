@@ -64,9 +64,8 @@ Explanation:
 This one is a bit more tricky. Although the trend for CPI shows a clear inflationary trend, this is counterveiled by flat GDP growth. Although this might otherwise indicate that foreign aid would be appropriate, we instead recomment ![dollarization](https://www.cbaeconomia.com/dollarization.pdf), which would allign the value of the Argentine Peso with that of the dollar. Given the rising exhcange rate between the two currencies as shown in the third visual, this step would likely be much more appropriate than simply sending funds directly to a ![profligate government in Buenos Ares](https://en.wikipedia.org/wiki/Argentine_debt_restructuring). In addition, the presence of more data points in the third linear regression back up the validity of these findings.
 <br>
 #### Colombia
-Should receive aid: Yes
 
-<br>
+Should receive aid: Yes
 
 Charts:
 
@@ -90,8 +89,6 @@ The trend in CPI and GDP growth both illustrate the need for urgent assistance h
 <br>
 #### Chile
 Should receive aid: Yes
-
-<br>
 
 Charts:
 
@@ -121,8 +118,6 @@ This set of visuals show an inflationary trend that ![has only gotten worse duri
 
 #### Brazil
 Should receive aid: Yes
-
-<br>
 
 Charts:
 
