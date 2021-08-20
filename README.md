@@ -145,5 +145,4 @@ The data points here show clear inflationary trend here. Like prior CPI plots, t
 
 ### Conclusion
 
-<br>
 In conclusion, there are limits to what can be concluded by our findings. Changes in exchange rate and CPI are cumulative and can be unnoticable if paired with robust economic growth. Finally, the decline in GDP growth might not be as dire as the data shows at second glance. A mere decline in GDP growth _per se_ does not mean that a nation's economy has stopped growing, just that it is not growing as fast. This brings me to my final point, the data that we obtained from the IMF and World Bank is limited and should only be used in the context of an academic exercise. In this case, our fictitious congressional hearing was just that. 
