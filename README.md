@@ -140,7 +140,6 @@ Wordcloud:
 Explanation:
 
 The data points here show clear inflationary trend here. Like prior CPI plots, there are a large quantity of data points to back this up. The exchange rate also shows an slide, albeit a cyclical one, against the dollar. Finally, there is a discernable downward trend in GDP growth that is of concern. Finally, the word cloud did not produce results that are of relevance here. In future, a more refined algorithm specifically for Brazil might be warrented.  
-<br>
 
 ### Conclusion
 
