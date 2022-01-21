@@ -1,4 +1,4 @@
-# Project 2: World Peace through Foreign Aid
+# Project 2: World Peace Through Foreign Aid
 
 Collaborators: Rosalyn Brown, Dean Kim, Thomas Scott & Samuel Simmons
 
